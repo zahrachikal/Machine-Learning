@@ -1,0 +1,5 @@
+Model,Hidden States,Log Likelihood
+Hidden Markov Model,2,1.7549156572371771e-12
+Hidden Markov Model,3,1.0769163338864018e-14
+Hidden Markov Model,5,1.7763568394002505e-15
+Hidden Markov Model,7,-6.661338147750939e-16
